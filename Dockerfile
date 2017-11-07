@@ -17,4 +17,4 @@ EXPOSE 80
 ENV NAME thehiatthotel
 
 # Run app.py when the container launches
-CMD ["python", "app.py"]
+CMD ["python", "THHAK.py"]
